@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "Secure real-time chat with global community lobby, end-to-end encrypted direct contacts, notifications, and privacy controls.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
